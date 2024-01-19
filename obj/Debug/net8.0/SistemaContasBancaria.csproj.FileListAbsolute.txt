@@ -1,0 +1,14 @@
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\SistemaContasBancaria\bin\Debug\net8.0\SistemaContasBancaria.exe
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\SistemaContasBancaria\bin\Debug\net8.0\SistemaContasBancaria.deps.json
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\SistemaContasBancaria\bin\Debug\net8.0\SistemaContasBancaria.runtimeconfig.json
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\SistemaContasBancaria\bin\Debug\net8.0\SistemaContasBancaria.dll
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\SistemaContasBancaria\bin\Debug\net8.0\SistemaContasBancaria.pdb
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\SistemaContasBancaria\obj\Debug\net8.0\SistemaContasBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\SistemaContasBancaria\obj\Debug\net8.0\SistemaContasBancaria.AssemblyInfoInputs.cache
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\SistemaContasBancaria\obj\Debug\net8.0\SistemaContasBancaria.AssemblyInfo.cs
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\SistemaContasBancaria\obj\Debug\net8.0\SistemaContasBancaria.csproj.CoreCompileInputs.cache
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\SistemaContasBancaria\obj\Debug\net8.0\SistemaContasBancaria.dll
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\SistemaContasBancaria\obj\Debug\net8.0\refint\SistemaContasBancaria.dll
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\SistemaContasBancaria\obj\Debug\net8.0\SistemaContasBancaria.pdb
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\SistemaContasBancaria\obj\Debug\net8.0\SistemaContasBancaria.genruntimeconfig.cache
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\SistemaContasBancaria\obj\Debug\net8.0\ref\SistemaContasBancaria.dll
